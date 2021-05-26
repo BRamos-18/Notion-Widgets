@@ -1,2 +1,2 @@
 # Notion-Widgets
-Repository for my notion widgets.
+A set of HTML widgets that could be embedded into Notion.so pages.
